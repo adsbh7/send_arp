@@ -1,5 +1,6 @@
 
 // ubuntu - command : gcc -o test test.c -lpcap 
+// sudo ./test ens33 192.168.196.166 8.8.8.8
 
 
 #include <pcap.h>

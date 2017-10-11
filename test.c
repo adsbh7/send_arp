@@ -66,7 +66,7 @@ int main(int argc, char* argv[])
 	
 		char * mac;		
 		uint16_t ethertype;
-		uint8_t arp_ip_buffer[4];
+		//uint8_t arp_ip_buffer[4];
      
 		char errbuf[PCAP_ERRBUF_SIZE];
 
